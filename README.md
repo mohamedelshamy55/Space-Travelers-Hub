@@ -1,56 +1,58 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Space Travellers' Hub
 
-# Project Name
+ Space Travellers' Hub is a web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.
 
-> Description the project.
+## Live demo
+https://kevin-elshamy.netlify.app/
 
+# Screenshots
+### Rockets Page
 
+![](./src/images/rockets.png)
+
+### Missions Page
+
+![](./src/images/missions.png)
+
+### My Profile Page
+
+![](./src/images/profile.png)
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- React.js
+- React router
+- React Redux.
+- React Logger.
+- React Thunks
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
 ### Setup
+
+Have the latest version of Node installed. 
+Next open terminal run `cd space_travellers_hub`
 
 ### Install
 
+Run `npm install` to install dependencies on your computer.
+
 ### Usage
 
-### Run tests
-
-### Deployment
-
-
+Run `npm start` to start the application
 
 ## Authors
 
-👤 **Author1**
+👤 **Kevin Koome**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@koomekevo](https://github.com/koomekevo)
+- Twitter: [@koomekevo](https://twitter.com/koomekevo)
+- LinkedIn: [LinkedIn](https://ke.linkedin.com/in/kevin-koome-aab84186)
 
-👤 **Author2**
+👤 **Mohamed Elshamy**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@mohamedelshamy](https://github.com/mohamedelshamy55) 
+- Twitter: [@mohamedelshamy](https://mobile.twitter.com/moelshamy55) 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamedelshamy85/) 
 
 ## 🤝 Contributing
 
@@ -61,12 +63,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
